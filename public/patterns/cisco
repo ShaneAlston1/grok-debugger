@@ -1,0 +1,11 @@
+EVENTDATE time=(\d+)\|
+MACHINE hostname=(\S+)\|
+TECHNOLOGY product=(\w+)\|
+LAYERNAME layer_name=(\w+)\|
+LAYERUUID layer_uuid=(.*)\|
+MATCHID match_id=(\d+)\|
+PARENTRULE parent_rule=(\d+)\|
+RULEACTION rule_action=(\w+)|
+RULENAME rule_name=(.*)\|
+RULEUUID rule_uuid=(.*)\|
+ACTION action=(\w+)|
